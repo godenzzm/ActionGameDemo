@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<skill>
+	
+<item id="Kick_Base" param="kick_base" state="Kick_Base" comboId="" comboFrameBegin="20" comboFrameEnd="46"/>
+
+<item id="Kick_Thrust" param="kick_thrust" state="Kick_Thrust" comboId="Kick_Base" comboFrameBegin="20" comboFrameEnd="46"/>
+
+<item id="Kick_Spin" param="kick_spin" state="Kick_Spin" comboId="Kick_Thrust" comboFrameBegin="-1" comboFrameEnd="-1"/>
+
+	
+<item id="Fist_Base" param="fist_base" state="Fist_Base" comboId="" comboFrameBegin="5" comboFrameEnd="25"/>
+
+<item id="Kick_Round" param="kick_round" state="Kick_Round" comboId="Fist_Base" comboFrameBegin="24" comboFrameEnd="64"/>
+
+<item id="Rising_Dragon" param="rising_dragon" state="rising_dragon" comboId="Kick_Round" comboFrameBegin="42" comboFrameEnd="64"/>
+	
+</skill>

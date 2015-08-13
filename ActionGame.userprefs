@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameSystem\WWWUtil.cs">
+    <Files>
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\TitleWindow\TitleWindowExec.cs" Line="1222" Column="24" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\GachaWindow\AcShopManager.cs" Line="693" Column="40" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\ACShop\ACShopWindowManager.cs" Line="784" Column="5" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\GachaWindow\AcShopTopWindow.cs" Line="262" Column="39" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\GachaWindow\GachaWindow.cs" Line="202" Column="34" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\ACShop\ACShopMainWindow.cs" Line="1705" Column="19" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameSystem\GlobalResourceLoader.cs" Line="507" Column="58" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameScene\GachaWindow\GachaClasses.cs" Line="1133" Column="32" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Scripts\GameSystem\WWWUtil.cs" Line="702" Column="31" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Plugins\Avabel\GameSystem\GameConstants.cs" Line="353" Column="2" />
+      <File FileName="E:\SVNWorkshop\AVABEL0609\Assets\Plugins\Avabel\GameSystem\AccountInfo.cs" Line="78" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
